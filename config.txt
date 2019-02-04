@@ -1,0 +1,6 @@
+owner=420700508160786442
+prefix=!
+game=go
+stayinchannel=true
+songinstatus=false
+token=NTQxODE3OTI0OTQ4ODUyNzM3.Dzk_XA.boWjiFqck6n7PfneeDDFmNG5fXc
